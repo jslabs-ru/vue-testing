@@ -1,5 +1,5 @@
 {
-  "name": "vue-test-utils-getting-started",
+  "name": "vue-testing",
   "version": "1.0.0",
   "scripts": {
     "test": "jest",
